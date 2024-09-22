@@ -40,11 +40,11 @@
 </div>
 
 <div align="center">
-  <h4>Libraries:</h4>
-  <img src="https://skillicons.dev/icons?i=pandas,numPy,matplotlib,scikit" />
+  <h4>Developer Tools:</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </div>
 
 <div align="center">
-  <h4>Developer Tools:</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Mehetre&show_icons=true&locale=en&theme=dracula" alt="Tejas-Mehetre" width="350" style="margin-right: 20px;" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Mehetre&theme=dracula" alt="Tejas-Mehetre" width="370" style="margin-left: 20px;" />
 </div>
