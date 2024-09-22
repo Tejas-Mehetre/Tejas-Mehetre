@@ -1,10 +1,2 @@
-# Hello there 👋, I'm [Your Name]
-
-**An aspiring Competitive Programmer and Web Developer**
-
-### Most Used Languages
-```text
-JavaScript       ██████████████████████░░   84.12%
-CSS              ██░░░░░░░░░░░░░░░░░░░░░░   12.92%
-HTML             ░░░░░░░░░░░░░░░░░░░░░░░░   2.18%
-C++              ░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+# Hello there 👋, I'm Tejas Mehetre
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F745B5&width=435&lines=An+aspiring+Competitive+Programmer;Web+Developer)](https://git.io/typing-svg)
