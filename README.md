@@ -21,3 +21,30 @@
   <a href="https://x.com/TejasMehetre3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;
 
 </div>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<div align="center">
+  <h4>Programming Languages:</h4>
+  <img src="https://skillicons.dev/icons?i=javascript,c,cpp,java,python" />
+</div>
+
+<div align="center">
+  <h4>Frameworks:</h4>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+</div>
+
+<div align="center">
+  <h4>Databases:</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</div>
+
+<div align="center">
+  <h4>Libraries:</h4>
+  <img src="https://skillicons.dev/icons?i=pandas,numPy,matplotlib,scikit" />
+</div>
+
+<div align="center">
+  <h4>Developer Tools:</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,html,css" />
+</div>
