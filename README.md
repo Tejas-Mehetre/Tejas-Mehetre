@@ -31,7 +31,7 @@
 
 <div align="center">
   <h4>Frameworks:</h4>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,tailwind" />
 </div>
 
 <div align="center">
