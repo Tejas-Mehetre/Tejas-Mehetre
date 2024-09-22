@@ -1,15 +1,16 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00F7D2&center=true&vCenter=true&width=800&lines=Hello+there+👋%2C+I'm+Tejas+Mehetre)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=32&pause=1000&color=00F7D2&center=true&vCenter=true&width=800&lines=Hello+there+👋%2C+I'm+Tejas+Mehetre)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=F745B5&center=true&vCenter=true&width=800&lines=An+aspiring+Competitive+Programmer+and+Web+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=18&pause=1000&color=F745B5&center=true&vCenter=true&width=800&lines=An+aspiring+Competitive+Programmer+and+Web+Developer)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Mehetre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
 </div>
+
 
 <h3 align="Center">It's Meee :</h3>
   
@@ -21,6 +22,8 @@
   <a href="https://x.com/TejasMehetre3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;
 
 </div>
+
+<hr/>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -44,7 +47,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </div>
 
+<hr/>
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Mehetre&show_icons=true&locale=en&theme=dracula" alt="Tejas-Mehetre" width="350" style="margin-right: 20px;" /> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Mehetre&theme=dracula" alt="Tejas-Mehetre" width="370" style="margin-left: 20px;" />
 </div>
+<!-- <div align="center">
+  <img align="center" src="https://leetcode-stats-six.vercel.app/api?username=Tejas_Mehetre&theme=dracula" alt="LeetCode Stats" width="370" style="margin-left: 20px;" />
+</div> -->
