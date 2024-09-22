@@ -14,7 +14,10 @@
 <h3 align="Center">It's Meee :</h3>
   
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/tejas-mehetre-922385253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu basak" height="30" width="40" /></a>&nbsp;
-  <a href="https://leetcode.com/u/Tejas_Mehetre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snow_codes" height="30" width="40" /></a>&nbsp;li
+  <a href="https://leetcode.com/u/Tejas_Mehetre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snow_codes" height="30" width="40" /></a>&nbsp;
   <a href="https://www.instagram.com/tejas_mehetre_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be_a_rook" height="30" width="40" /></a>&nbsp;
+  <a href="https://x.com/TejasMehetre3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;
+
 </div>
