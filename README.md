@@ -158,16 +158,6 @@ Flutter • Node.js • Express.js • MongoDB • Razorpay
 
 ---
 
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mehetre&theme=react-dark"/>
-
-</div>
-
----
-
 # 📈 LeetCode
 
 <div align="center">
