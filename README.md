@@ -123,18 +123,6 @@ Next.js • NestJS • PostgreSQL
 
 ---
 
-# 🎯 Currently Learning
-
-- Distributed Systems
-- PostgreSQL Internals
-- Kafka
-- ClickHouse
-- Temporal
-- Kubernetes
-- System Design
-
----
-
 # 🛠 Tech Stack
 
 ### Languages
