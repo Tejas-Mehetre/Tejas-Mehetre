@@ -164,16 +164,6 @@ Flutter • Node.js • Express.js • MongoDB • Razorpay
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tejas-Mehetre&theme=algolia&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
 # 📈 LeetCode
 
 <div align="center">
