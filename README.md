@@ -1,58 +1,242 @@
-
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=32&pause=1000&color=00F7D2&center=true&vCenter=true&width=800&lines=Hello+there+👋%2C+I'm+Tejas+Mehetre)](https://git.io/typing-svg)
+# Hi there 👋, I'm Tejas Mehetre
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=18&pause=1000&color=F745B5&center=true&vCenter=true&width=800&lines=An+aspiring+Competitive+Programmer+and+Web+Developer)](https://git.io/typing-svg)
+### Backend-Focused Full Stack Developer
+
+Building scalable backend systems, REST APIs & distributed applications.
+
+<p>
+  <a href="https://www.linkedin.com/in/tejas-mehetre-922385253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Tejas_Mehetre">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
+---
+
+# 👨‍💻 About Me
+
+I'm a **Backend-Focused Full Stack Developer** with **2+ years of professional experience** building enterprise-grade web applications.
+
+Currently working on production systems using:
+
+- 🚀 Node.js & NestJS
+- 🗄 PostgreSQL & Redis
+- ☁ AWS
+- 🐳 Docker & Kubernetes
+- 🔍 OpenSearch
+- ⚡ Performance Optimization
+
+I enjoy solving backend engineering problems, designing scalable systems, optimizing APIs, and learning distributed systems.
+
+---
+
+# 💼 Experience
+
+### Backend-Focused Full Stack Developer
+
+🏢 **Centralogic**
+
+- Building enterprise backend applications using **NestJS**, **Node.js**, **PostgreSQL**, **Redis**, and **Next.js**
+- Developed scalable REST APIs
+- Improved API performance using Redis caching
+- Worked on production deployments using Docker, Kubernetes & Jenkins
+- Diagnosed production issues using OpenSearch
+- Worked with AWS services including API Gateway, Lambda, S3 & SQS
+
+---
+
+### Full Stack Developer (Freelance)
+
+🏢 **Baseel Partners**
+
+- Built full-stack client applications using React, Next.js, Express.js and MongoDB
+- Developed REST APIs
+- Worked directly with clients
+- Delivered production-ready applications
+
+---
+
+# 🚀 Featured Projects
+
+## 🏢 Monotype – R360
+
+**Enterprise Font Management Platform**
+
+### Tech Stack
+
+NestJS • Node.js • PostgreSQL • Redis • Docker • Kubernetes • Jenkins • AWS • OpenSearch
+
+### Highlights
+
+- 🚀 Improved API response time by **40–50%** using Redis caching
+- ⚡ Optimized SQL queries improving performance by **30%**
+- 🛠 Worked on production support using OpenSearch & Zendesk
+- ☁ Worked with AWS services (API Gateway, Lambda, S3, SQS)
+- 🐳 Containerized deployments using Docker & Kubernetes
+
+---
+
+## 🏘 Smart Society (Freelance)
+
+**Society Management Platform**
+
+### Tech Stack
+
+Flutter • Node.js • Express.js • MongoDB • Razorpay
+
+### Highlights
+
+- JWT Authentication
+- Role-Based Authorization
+- Razorpay Integration
+- Payment Verification
+- REST APIs
+- MongoDB Schema Design
+
+---
+
+## ✈ Activity Planner
+
+**Travel Planning Platform**
+
+### Tech Stack
+
+Next.js • NestJS • PostgreSQL
+
+### Highlights
+
+- Backend API Development
+- Booking Management
+- Secure Authentication
+- PostgreSQL Database Design
+
+---
+
+# 🎯 Currently Learning
+
+- Distributed Systems
+- PostgreSQL Internals
+- Kafka
+- ClickHouse
+- Temporal
+- Kubernetes
+- System Design
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,postman"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Mehetre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tejas-Mehetre&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Mehetre&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Mehetre&layout=compact&theme=tokyonight"/>
+
 </div>
 
+---
 
-<h3 align="Center">It's Meee :</h3>
-  
+# 📊 Activity Graph
+
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/tejas-mehetre-922385253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu basak" height="30" width="40" /></a>&nbsp;
-  <a href="https://leetcode.com/u/Tejas_Mehetre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snow_codes" height="30" width="40" /></a>&nbsp;
-  <a href="https://www.instagram.com/tejas_mehetre_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be_a_rook" height="30" width="40" /></a>&nbsp;
-  <a href="https://x.com/TejasMehetre3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Mehetre&theme=react-dark"/>
 
 </div>
 
-<hr/>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-
-<div align="center">
-  <h4>Programming Languages:</h4>
-  <img src="https://skillicons.dev/icons?i=javascript,c,cpp,java,python" />
-</div>
+# 🏆 GitHub Trophies
 
 <div align="center">
-  <h4>Frameworks:</h4>
-  <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,tailwind" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tejas-Mehetre&theme=algolia&no-frame=true&margin-w=10"/>
+
 </div>
+
+---
+
+# 📈 LeetCode
 
 <div align="center">
-  <h4>Databases:</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+<img src="https://leetcard.jacoblin.cool/Tejas_Mehetre?theme=dark&font=Nunito"/>
+
 </div>
+
+---
+
+# 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tejas-mehetre-922385253/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Tejas_Mehetre">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://x.com/TejasMehetre3">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-  <h4>Developer Tools:</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</div>
 
-<hr/>
+### 💡 "First make it work. Then make it right. Then make it fast. Then make it scale."
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejas-Mehetre&show_icons=true&locale=en&theme=dracula" alt="Tejas-Mehetre" width="350" style="margin-right: 20px;" /> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Mehetre&theme=dracula" alt="Tejas-Mehetre" width="370" style="margin-left: 20px;" />
+⭐️ From **Tejas Mehetre**
+
 </div>
-<!-- <div align="center">
-  <img align="center" src="https://leetcode-stats-six.vercel.app/api?username=Tejas_Mehetre&theme=dracula" alt="LeetCode Stats" width="370" style="margin-left: 20px;" />
-</div> -->
