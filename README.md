@@ -111,7 +111,7 @@ Flutter • Node.js • Express.js • MongoDB • Razorpay
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp"/>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp"/>
 </p>
 
 ### Backend
@@ -123,7 +123,7 @@ Flutter • Node.js • Express.js • MongoDB • Razorpay
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
 ### Databases
@@ -135,7 +135,7 @@ Flutter • Node.js • Express.js • MongoDB • Razorpay
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,postman"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,postman"/>
 </p>
 
 ---
