@@ -106,23 +106,6 @@ Flutter • Node.js • Express.js • MongoDB • Razorpay
 
 ---
 
-## ✈ Activity Planner
-
-**Travel Planning Platform**
-
-### Tech Stack
-
-Next.js • NestJS • PostgreSQL
-
-### Highlights
-
-- Backend API Development
-- Booking Management
-- Secure Authentication
-- PostgreSQL Database Design
-
----
-
 # 🛠 Tech Stack
 
 ### Languages
