@@ -108,35 +108,39 @@ Flutter • Node.js • Express.js • MongoDB • Razorpay
 
 # 🛠 Tech Stack
 
+<div align="center">
+
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,postman"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,postman" />
 </p>
+
+</div>
 
 ---
 
